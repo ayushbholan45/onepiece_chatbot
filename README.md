@@ -81,7 +81,7 @@ This scrapes One Piece data from Wikipedia and the One Piece fandom wiki, genera
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) 🏴‍☠️
+Open [http://localhost:3000](http://localhost:3000) 
 
 ---
 
